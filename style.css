@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(153, 152, 152);
+}
+
+.recipe-body {
+    background-color: white;
+}
+
+.link {
+    font-size: 20px;
+    font-family: "Courier New", "Times New Roman";
+}
+
+.title {
+    text-decoration: underline;
+    font-family: "Helvetica", "Times New Roman";
+}
+
+.image {
+    height: auto;
+    width: 500px;
+}
+
+.ingredients {
+    font-weight: bold;
+}
